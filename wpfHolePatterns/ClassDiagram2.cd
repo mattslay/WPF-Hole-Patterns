@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="wpfHolePattern.FormattingConverter" Collapsed="true">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Window1.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="wpfHolePattern.Window1" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>TQgwgBBBBCgwgKQAACABwgAAgAAAAAjAkAAAoEACyAI=</HashCode>
+      <FileName>Window1.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="wpfHolePattern.cdsSpinner" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAIAAAAAAAAAQAAIAAAAg=</HashCode>
+      <FileName>Window1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeoPatterns.Hole">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="GeoPatterns.Hole.HoleTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GeoPatterns.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAgAgIYIACABgIDFggAQAAAAwIIAABCIAUABAAEAACM=</HashCode>
+      <FileName>GeoPatterns.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GeoPatterns.SingleLineHole">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeoPatterns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeoPatterns.CircularPatternHole">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAACAAAgAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>GeoPatterns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeoPatterns.CircularHolePattern">
+    <Position X="15.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIACAAQAAAACAQAAAAAAAADAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>GeoPatterns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeoPatterns.SingleLineHolePattern">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAg=</HashCode>
+      <FileName>GeoPatterns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GeoPatterns.HolePattern">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwgMQAyGACgIASgBlQkCAAwAABAAARAAABAIAAASo=</HashCode>
+      <FileName>GeoPatterns.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
